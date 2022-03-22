@@ -11,6 +11,7 @@ header.main-header{
 ul.navBar{
   list-style:none;
   display:flex;
+  margin-right: 100px;
 }
 
 ul.navbar li{
@@ -25,4 +26,17 @@ ul.navbar li{
 .contImg img{
 
   width: 100%;
+}
+
+
+.card-prod{
+
+  float: left;
+  border: 1px solid black;
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
 }
